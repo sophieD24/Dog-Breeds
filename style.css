@@ -1,0 +1,60 @@
+
+li, a, h1, p, table {
+ font-family: "Quicksand", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: <weight>;
+ font-style: normal;
+}
+
+table {
+   color: black;
+   font-size: 35;
+}
+
+h1 {
+   color: white; 
+   font-size: 60px;
+}
+
+p {
+   color: white; 
+   font-size: 35px;
+}
+
+.topnav {
+   background-color: #58b3d1;
+   overflow: hidden;
+}
+
+.topnav a {
+   float: left;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: #93becc;
+   color: black;
+}
+
+.topnav a.active {
+   background-color: #146580;
+   color: white;
+}
+
+
+#dogBone {
+ background: url("dogBone.jpeg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 300px;s
+}
+
+#colorBand1 {
+ background: #58b3d1;
+ height: 130px;
+ width: 100%;
+}
